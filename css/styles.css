@@ -23,6 +23,8 @@
 }
 
 .main {
+    max-width: 900px;
+    margin: auto;
     margin-top: -35vh;
     -webkit-flex-shrink: 0;
     -ms-flex-negative: 0;
@@ -67,7 +69,7 @@
 
 .card-wide > .mdl-card__title {
     color: #fff;
-    height: 176px;
+    height: 275px;
     background: url('../images/hello.jpg') center / cover;
 }
 
